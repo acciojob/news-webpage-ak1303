@@ -26,12 +26,8 @@ img{
 	object-fit:cover;
 	border-radius:2px;
 }
-.img{
-	display:flex;
-	flex-direction:column;
-	padding:5px;
-	gap:5px;
-	align-items:center;
+img{
+	border-radius:5px;
 }
 h2{
 	font-size:18px;
@@ -57,5 +53,6 @@ ul {
 	overflow:hidden;
 }
 .pictorial-news-section{
+	text-align:center;
 	min-height:350px;
 }
